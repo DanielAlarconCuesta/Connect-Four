@@ -1,0 +1,24 @@
+#boardTable {
+    width: 45%;
+    height: 600px;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.white {
+    background-color: white;
+    
+}
+
+.red {
+    background-color: red;
+    
+}
+.blue {
+    background-color: blue;
+    
+}
+
+#buttonDiv {
+    text-align: center;
+}
